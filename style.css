@@ -1,0 +1,51 @@
+.shapes {
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-evenly;
+    text-align : center;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.group {
+    background-color : lightblue;
+    border : 3px solid;
+    border-radius : 20px;
+    text-align : center;
+    width: 350px;
+    
+}
+
+.points {
+    text-align : left;
+}
+
+.group img {
+    border : 5px solid;
+    border-color : black;
+    border-radius : 20px
+}
+
+.group2 {
+    background-color : lightblue;
+    border : 3px solid;
+    border-radius : 20px;
+    text-align : center;
+    width: 350px;
+    margin-top: 50px;
+    height: 600px;
+}
+
+.group2 img {
+    border : 5px solid;
+    border-color : black;
+    border-radius : 20px
+}
+
+.intro {
+    align-items: center;
+    text-align: left;
+    text-shadow: mediumblue;
+    height: 200px;
+    background-image: url("info-background.jpg");
+}
